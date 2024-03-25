@@ -1,1 +1,1 @@
-# ArQLlama is a simple and straightforward interface to interact with Llama.cpp written in Python.
+# ArQLlama is a simple and straightforward interface to interact with the world of Large Language Models
