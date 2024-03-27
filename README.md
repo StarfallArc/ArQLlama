@@ -1,1 +1,1 @@
-# ArQLlama is a simple and straightforward interface to interact with the world of Large Language Models
+# ArQLlama is a simple and straightforward interface to interact with the llama.cpp
